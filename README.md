@@ -1,6 +1,3 @@
-# COMP9417   PROJECT   Year: 2020      TERM: 02
-
-
 # AIM
 
 - Implement a ‘Transaction Fraud Prevention System’ leveraging machine learning models,
